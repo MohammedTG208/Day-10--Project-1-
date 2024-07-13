@@ -8,7 +8,7 @@ public class Calculator {
     public static void main(String[] args) {
        calculator();
     }
-    //Start from here to do switch to se the user what select number
+   
     static void calculator(){
         Scanner input=new Scanner(System.in);
         int userAction;
