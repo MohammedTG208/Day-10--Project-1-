@@ -1,7 +1,4 @@
 import java.util.*;
-//i need to add computer value
-// and check if there is value of the index for
-// computer add or user
 public class Main {
     public static void main(String[] args) {
         TicTacToc();
